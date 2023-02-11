@@ -1,2 +1,2 @@
 [packages]
-pandas = "*"
+pandas = "==1.5.3"
