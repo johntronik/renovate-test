@@ -3,6 +3,5 @@
   "extends": [
     "config:base"
   ],
-  "timezone": "Asia/Tokyo",
   "dependencyDashboard": false
 }
